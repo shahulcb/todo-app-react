@@ -1,9 +1,8 @@
-import react from "react"
+import React from "react"
 
 function App() {
   return (
     <div>
-      <h1>hey</h1>
     </div>
   );
 }
